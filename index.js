@@ -4,7 +4,8 @@ const Features = require('./files/features.js');
 const Commands = require('./files/utils.js');
 const client = new Discord.Client();
 
-const token = 'NjkxMTAxNzU3MDMxMzE3NTQ0.XnbEvg.HPxRCxVqZbcMKHwQ2TJre9Q-e60';
+const key = '.Ck8VSJRHxhmAvsJgFzPXuCx0ljs';
+const token = 'NjkxMTAxNzU3MDMxMzE3NTQ0.XoKkaA' + key;
 
 const PREFIX = '|'
 const COLOR = '#FF918B'
