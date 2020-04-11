@@ -36,7 +36,7 @@ const helpEmbed =
 "```";
 
 //Ready
-client.on('ready', () => {
+client.once('ready', () => {
     console.log("Let's go");
 })
 
